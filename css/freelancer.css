@@ -75,6 +75,7 @@ header {
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
+  background: #4622b4;
 }
 header img {
   display: block;
