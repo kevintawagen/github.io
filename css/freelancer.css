@@ -62,19 +62,19 @@ hr.star-primary {
 }
 hr.star-primary:after {
   background-color: white;
-  color: #18BC9C;
+  color: #2C3E50;
 }
 .img-centered {
   margin: 0 auto;
 }
 header {
   text-align: center;
+  background: #18BC9C;
   color: white;
 }
 header .container {
   padding-top: 100px;
   padding-bottom: 50px;
-  background: #18BC9C;
 }
 header img {
   display: block;
@@ -95,7 +95,6 @@ header .intro-text .skills {
   header .container {
     padding-top: 200px;
     padding-bottom: 100px;
-    background: #18BC9C;
   }
   header .intro-text .name {
     font-size: 4.75em;
